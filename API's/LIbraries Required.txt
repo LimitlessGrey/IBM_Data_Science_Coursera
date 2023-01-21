@@ -1,0 +1,4 @@
+pip install pycoingecko
+pip install plotly
+pip install mplfinance
+pip install --upgrade nbformat
