@@ -20,6 +20,7 @@ franciscostigliano@gmail.com
 > + The Data Science process   
 > + How to manipulate and extract value from data    
 > + What Are API's and how to use them 
+> + SQL and all its magic
 
 ## License
 
