@@ -21,6 +21,8 @@ franciscostigliano@gmail.com
 > + How to manipulate and extract value from data    
 > + What Are API's and how to use them 
 > + SQL and all its magic
+> + Data Vizualization
+> + Machine Learning techniques
 
 ## License
 
